@@ -1,0 +1,38 @@
+Test Set
+
+Case 1-> all user must be signup then they logged in.
+case 2-> all user cane only see categories and products with details and price
+
+case 3-> all used must have unique username if its username name already in database iot msut change and make nwe username with diff character
+case 4-> all category and products have unque id's
+
+case 5-> products must be inserted unser specific category id if category is not exist then products cannot be saved(Exception error)
+
+case 6-> user only see and purschase the products cannot add any category or details
+
+case 7-> only Admin single superuser/owner who can change category and products(first category and then products)
+
+case 8-> Admin can see all user Cart and purchasing bill
+
+case 9-> all attribute of each and every table have relation with each other by foriegn key
+
+casae 10-> there is no duplicacy in data all are unique and can add multiple data with any cause effect
+
+case 11-> f there is any interrputed / invalid enter by user it will throws perfect Exception message (error)
+
+
+
+	######################
+
+
+there is some more points can be add but because of delay in time, 
+I just sending my code project and sql file and this.
+
+please look and response me as soon as possible 
+
+thankyou have a good day
+
+Arif Choudhary
+6395685177 
+
+		###############
